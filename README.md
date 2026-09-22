@@ -6,7 +6,7 @@ Bộ ví dụ minh họa lập trình mạng (Java Networking) cơ bản, đư�
 
 ## Giới thiệu (About)
 
-**Homework1** là bài tập/nghiên cứu cá nhân về lập trình mạng trong Java, tập trung vào ba lớp cốt lõi của gói `java.net`:
+**java-networking-examples** là bài tập/nghiên cứu cá nhân về lập trình mạng trong Java, tập trung vào ba lớp cốt lõi của gói `java.net`:
 
 - `InetAddress` – tra cứu và làm việc với địa chỉ IP / tên miền.
 - `URL` – phân tích và thao tác với các thành phần của một địa chỉ URL.
@@ -45,7 +45,7 @@ Mục tiêu của dự án là cung cấp các ví dụ code ngắn gọn, dễ 
 ## Cấu trúc dự án
 
 ```
-Homework1/
+java-networking-examples/
 ├── .idea/                          # Cấu hình IntelliJ IDEA
 ├── src/
 │   └── main/
@@ -71,8 +71,8 @@ Homework1/
 ### Cài đặt
 
 ```bash
-git clone https://github.com/nhunguy-swe/Homework1.git
-cd Homework1
+git clone https://github.com/nhunguy-swe/java-networking-examples.git
+cd java-networking-examples
 ```
 
 ### Chạy chương trình
